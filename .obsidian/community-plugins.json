@@ -10,5 +10,6 @@
   "callout-integrator",
   "callout-menu",
   "global-search-and-replace",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "github-sync"
 ]
