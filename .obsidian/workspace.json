@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "44c8821a54421561",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87aafa9d96a5c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc27731ef77f831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-剧情/出苍白海/出苍白海.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "出苍白海"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a90ad7a01d1422",
+    "type": "split",
+    "children": [
+      {
+        "id": "b19b560b032619c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a9348d84f42a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9a09c5c67c6bad80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a166c329873a3e36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af0cf650b75256a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "48513d7412c1c85b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e5945941296561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-人物/干员-棘刺.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "干员-棘刺 的反向链接列表"
+            }
+          },
+          {
+            "id": "e6745d07d571b647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-人物/干员-棘刺.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "干员-棘刺 的出链列表"
+            }
+          },
+          {
+            "id": "8dafdd3ba83a61ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "95b4ac99c2757703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-剧情/出苍白海/出苍白海.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "出苍白海 的大纲"
+            }
+          },
+          {
+            "id": "727732abf33cf4de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "acc27731ef77f831",
+  "lastOpenFiles": [
+    "0-剧情/出苍白海/2.6w字分析出苍白海剧情烂、角色塑造烂、文案与审核失职、官方态度敷衍.md",
+    "0-剧情/出苍白海/出苍白海.md",
+    "0-剧情/出苍白海/附件/Y油漆Q的思维导图.png",
+    "0-剧情/出苍白海/蒂奇.md",
+    "0-剧情/出苍白海/不谈剧情，仅从语言习惯来聊聊为什么出苍白海的棘刺让人觉得割裂感严重.md",
+    "0-剧情/出苍白海/安纳斯塔西奥.md",
+    "0-剧情/出苍白海/前后矛盾，文不达意——《出苍白海》剧情质量客观分析.md",
+    "0-剧情/出苍白海/前后矛盾，文不达意——《出苍白海》剧情质量客观分析【明日方舟】.md",
+    "0-剧情/出苍白海/EP-1 倒悬苍白海上-行动前.md",
+    "0-剧情/出苍白海/哈维尔.md",
+    "9-模板/剧情-人物模板.md",
+    "9-模板/干员-主页模板.md",
+    "9-模板/干员-语音模板.md",
+    "9-模板/干员-档案模板.md",
+    "0-剧情/出苍白海/胡安娜.md",
+    "1-人物/瑰盐.md",
+    "1-人物/极境.md",
+    "1-人物/棘刺.md",
+    "1-人物/温蒂.md",
+    "0-剧情/出苍白海/附件/冷.png",
+    "0-剧情/出苍白海/附件/Pasted image 20250204005958.jpg",
+    "0-剧情/出苍白海/附件",
+    "9-模板/剧情-评论模板.md",
+    "9-模板/剧情-主页模板.md",
+    "9-模板/剧情-内容模板.md",
+    "9-模板/剧情-通用模板.md",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011701.jpg",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011903.png",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011746.jpg",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011741.jpg",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011734.jpg",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011728.jpg",
+    "0-剧情/出苍白海/附件/Pasted image 20250204011708.jpg",
+    "0-剧情/0-剧情.md",
+    "0-剧情/相见欢/相见欢.md",
+    "0-剧情/出苍白海/EP-ST-1 别了，盐漠-幕间.md",
+    "0-剧情/相见欢",
+    "0-剧情/生路",
+    "0-剧情/太阳甩在身后",
+    "0-剧情/泰拉饭",
+    "0-剧情/追迹日落以西",
+    "0-剧情/揭幕者们",
+    "未命名",
+    "8-脚本/constants.js",
+    "8-脚本/新建 文本文档.txt"
+  ]
+}

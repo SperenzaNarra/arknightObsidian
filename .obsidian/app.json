@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "trashOption": "none",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "7-默认附件",
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "9-模板/"
+  ],
+  "alwaysUpdateLinks": true
+}

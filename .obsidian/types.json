@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "参与人物": "multitext",
+    "序号": "number",
+    "特性": "multitext",
+    "发布日期": "date",
+    "人物": "multitext",
+    "总章数": "number",
+    "地理": "multitext",
+    "势力": "multitext"
+  }
+}
